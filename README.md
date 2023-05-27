@@ -1,12 +1,15 @@
-# Getting Started with Create React App
+# YOUTUBE CLONE 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Used Technologies
 
-## Available Scripts
+### React React-Roter-Dom Axios React-Icons React-Player 
 
-In the project directory, you can run:
+<p> This project includes a simpler clone of youtube. Used React hooks: useEffecet, useState, useContext. 
+Switching between pages was provided with the router dom library. videos was taken to request API </p>
 
-### `npm start`
+![](./src/assets/screen.gif)
+
+
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
